@@ -30,8 +30,6 @@
                 <li><a href="#CH15 Structure of Atoms and Nuclei">XII chp 15 Structure of Atoms and Nuclei</a></li>
                 <li><a href="#CH16 Semiconductor Devices">XII chp 16 Semiconductor Devices</a></li>
                 <li><a href="#Physics Hand Book">Physics Hand Book</a></li>
-                <li><a href="#MHT CET TEST LINK">MHT CET SECTION</a></li>
-                <li><a href="#NEET TEST LINK">NEET SECTION</a></li>
             </ul>
         </nav>
     </header>
@@ -68,14 +66,7 @@
                 <li><a href="https://drive.google.com/file/d/125M2B2C7vP1iEAbcXJFmcRvbKLgj2Emf/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/10Wac8OeIPZD99-liHEjLLHLH0mkF4Vs6/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1g6HIMYsmadmdFdLVtAduY0N_7jsd2JVZ/view?usp=sharing">PPT Notes</a></li>
-                <li><a href="https://forms.gle/2ovCs56PhUEHvge59">MCQ TEST 01</a></li>
-                <li><a href="https://forms.gle/N7J9xG6HLSdcXXkd7">MCQ TEST 02</a></li>
-                <li><a href="https://forms.gle/4JCoS96H7NYxCak39">MCQ TEST 03</a></li>
-                <li><a href="https://forms.gle/74hdAv7yKTB7MWos9">MCQ TEST 04</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScGJ8Bje07c3ySxMaDNCNuHDtb4cuG39GQxF_passhQJ5zT6w/viewform?usp=sharing">MCQ TEST 05</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSc6gTzYvWzPZ5noUoLHPkHrBEceRYHRhK-uo1f-_WipuH9S5g/viewform?usp=sharing">MCQ TEST 06</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeDSN8lt-JKrkaIdqK3-2XL56YrAz9dbrwdj2oBa4kNvqkIJg/viewform?usp=sharing">MCQ TEST 07</a></li>
-                <li><a href="https://docs.google.com/forms/d/e/1FAIpQLScLAVJ_Tq1TUUTfll5etw1jFwKA0OJXfyzGoU5VskbxyMUXOw/viewform?usp=sharing">MCQ TEST 08</a></li>
+                <li><a href="https://drive.google.com/file/d/1gTH9nVqh5S-xhlCRHwlueW4JIx3kfsG4/view?usp=sharing">PYQ</a></li>
             </ul>
         </section>
         <section id="CH02 Mechanical Properties of Fluids">
