@@ -129,6 +129,7 @@
                 <li><a href="https://drive.google.com/file/d/1FuvvocQIWsWsuNE8qsOZ0wAlzY7Rcuvd/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1Ue1hcZAA8P_K7eTqDxtS91rOAT12eFr2/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1s4oMlwWG40iM4GApZyUaf4X2RyqhRo-7/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1O1u4JY5apkaKTDSCoa3J-iyKeVu2d0q9/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
         <section id="CH09 Current Electricity">
@@ -137,6 +138,7 @@
                 <li><a href="https://drive.google.com/file/d/1gaXthr7QG-cq0ezLFlOQWnrs_I99wpHZ/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/14JxhvzrUYYRYwHmeKhyiQSIf-OnET5iJ/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1JakqqBFYlTUs8XUQQ4eMsmhu5lMcUvWo/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/12TwC_DszmAzQUN_nP_uw9D0t-jh_ATJC/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
         <section id="CH10 Magnetic Fields due to Electric Current">
@@ -145,6 +147,7 @@
                 <li><a href="https://drive.google.com/file/d/1qtAH3u8qd_Yk2_j_Pe8oz__7tPV3N9NM/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1ZM-RDF3e1PwuwueyIgHo3lzMIZQQ6Wy0/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1zWP4Al71QL1trcaTVmyOLyTJJ34oYWwU/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1CgxpqOO6opkyuGUfd0kYSxtMxO8tRJOT/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
         <section id="CH11 Magnetic Material">
@@ -153,6 +156,7 @@
                 <li><a href="https://drive.google.com/file/d/1nTyjkyn3lrKGD2ffgezveRs5UmtARIaa/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1bUtTND1A8491A5HUpXyyaip5b7Nw_h7L/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1g6uzxfikklPYkqkHBMQECD9cBlkWURyy/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1hKFsrakBA4VfmSut5ynCrJn2HIURP-uD/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
         <section id="CH12 Electromagnetic Induction">
@@ -161,6 +165,7 @@
                 <li><a href="https://drive.google.com/file/d/1wM-klMTP9bXpuxEVGauTzOaJw5R1ev5C/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1dxS6x-_VvM6qd3B2iocHAARsQYtvzVeB/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1jgseCHhKzJQbzCjRHOsWuef6THJ1iV5W/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1VI58aEheyEfbHAQ6nHOx0ymyNbJyAyf9/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
         <section id="CH13 AC circuits">
@@ -169,6 +174,7 @@
                 <li><a href="https://drive.google.com/file/d/18LqdirX04GoFKHPOBBswnR_MiEcZGWeY/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1DEG9yNhvxc5XaZdyYiWLLwq8ulNeRToa/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/131W8vFtMjOgTuXqdFWln5f9Y62QJYld3/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/1epTwTFLQ-iY5ORf_P5r5DB4UEGY-0NAw/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
         <section id="CH14 DUAL NATURE OF RADIATION AND MATTER">
@@ -177,6 +183,7 @@
                 <li><a href="https://drive.google.com/file/d/1nl6gNJhr9KJh9Xd_c5x8j7WyR8nMeTtI/view?usp=sharing">Theory Notes</a></li>
                 <li><a href="https://drive.google.com/file/d/1Aecc6eYOez0yPawQLS_sDh81JDGkpBQ4/view?usp=sharing">Ques Bank With Solution</a></li>
                 <li><a href="https://drive.google.com/file/d/1Thv5mns39rZOX-G-UHPe-TxtWi1S1AWa/view?usp=sharing">PPT Notes</a></li>
+                <li><a href="https://drive.google.com/file/d/15bhlQf0U4hp6HYEy1EjVtG687aSyiuNm/view?usp=sharing">PYQ</a></li>
            </ul>
         </section>
         <section id="CH15 Structure of Atoms and Nuclei">
